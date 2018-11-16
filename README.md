@@ -1,2 +1,2 @@
 # telegraf-ubnt
-This repository adds Ubiquiti/Unifi MIBs to telegraf Docker image and enables SNMP
+Add Ubiquiti/Unifi MIBs to telegraf Docker image and enable SNMP
